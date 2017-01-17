@@ -1,0 +1,12 @@
+Open Linux Terminal
+
+
+cd to the directory the file is located in
+
+
+
+md5sum filename.ext   [Replace "filename.ext" with your actual file name + extension: this will hash file to MD5]
+
+sha1sum filename.ext   [Replace "filename.ext" with your actual file name + extension: this will hash file to SHA1] 
+
+sha256sum filename.ext   [Replace "filename.ext" with your actual file name + extension: this will hash file to SHA256]
